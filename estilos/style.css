@@ -7,6 +7,10 @@ body {
     background-color: rgb(175, 136, 211);
 }
 
+h1 {
+    font-size: 30px;
+}
+
 main {
     background-color: white;
     width: 500px;
